@@ -1,0 +1,46 @@
+/node_modules
+/npm-debug.log
+/yarn-error.log
+
+/vendor
+/public/storage
+/public/hot
+/public/mix-manifest.json
+
+/.phpunit.result.cache
+/.env
+/.env.backup
+Homestead.yaml
+Homestead.json
+.phpstorm.meta.php
+.idea/
+/vagrant/
+
+/storage/*.key
+/storage/*.log
+/storage/app/public
+/storage/debugbar
+/storage/framework/cache/data
+/storage/framework/sessions
+/storage/framework/testing
+/storage/framework/views
+/storage/logs
+
+# Laravel Mix
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Caches
+/.cache
+.phpunit.result.cache
+
+# Composer
+/vendor
+composer.phar
+
+# Laravel Telescope
+/telescope
+
+# Laravel Horizon
+/horizon

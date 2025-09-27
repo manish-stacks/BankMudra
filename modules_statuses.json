@@ -1,0 +1,12 @@
+{
+    "Blog": true,
+    "Quiz": true,
+    "GeneralSettings": true,
+    "Student": true,
+    "PreviousQuestionPaper": true,
+    "PreviousPaper": true,
+    "TestOrders": true,
+    "Products": true,
+    "Orders": true,
+    "LoanManagement": true
+}
